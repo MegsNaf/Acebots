@@ -1,0 +1,97 @@
+---
+  0 debug pnpm:scope: 
+    selected: 1
+    workspacePrefix: null
+  1 info pnpm: 
+    message: "A store server is running. All store manipulations are delegated to it."
+    prefix: "/app"
+  2 debug pnpm:package-json: 
+    initial: 
+      name: "s"
+      version: "0.0.1"
+      description: "s."
+      main: "server.js"
+      scripts: 
+        start: "node server.js"
+      dependencies: 
+        canvas: "^2.8.0"
+        chalk: "^4.1.2"
+        chance: "^1.1.7"
+        common-tags: "^1.8.0"
+        discord-backup: "^2.3.0"
+        discord-buttons: "^4.0.0"
+        discord.js: "^12.5.3"
+        distube: "^2.8.18"
+        express: "^4.17.1"
+        fs: "^0.0.1-security"
+        generate-password: "^1.6.1"
+        http: "^0.0.1-security"
+        jimp: "^0.16.1"
+        lowdb: "^2.1.0"
+        math-expression-evaluator: "^1.3.8"
+        mathjs: "^9.4.4"
+        moment: "^2.29.1"
+        moment-duration-format: "^2.3.2"
+        ms: "^2.1.3"
+        node-fetch: "^2.6.1"
+        node-opus: "^0.3.3"
+        node-superfetch: "^0.2.3"
+        opusscript: "^0.0.8"
+        os: "^0.1.2"
+        quick.db: "^7.0.0-b22"
+        twemoji-parser: "^13.1.0"
+      engines: 
+        node: "14.x"
+      keywords: 
+        - "node"
+        - "glitch"
+        - "express"
+      readme: "Kurulum - Windows\n\n1. Adım: Node.JS programını kurun. (nodejs.org)\n2. Adım: Projeyi bilgisayarınıza indirin.\n3. Adım: Proje dosyalarını açın, proje dosyalarının olduğu klasörde komut penceresini açın (Ctrl+Sağ tık > komut penceresini burada aç)\n4. Adım: Açılan komut penceresine npm install komutunu yazın ve modüllerin yüklenmesini bekleyin.\n5. Adım: Ayarlar.json dosyasını açıp ayarlarınızı yapın.\n6. Adım: Modüller yüklendikten sonra, komut penceresine node bot.js komutunu yazın ve botu çalıştırın.\nBotun altyapısı için kullandığım kaynak: https://github.com/AnIdiotsGuide/Tutorial-Bot"
+      readmeFilename: "README.md"
+      gitHead: "0ea562990aae999bf28fb40824d476cd12bbeca2"
+      _id: "s@0.0.1"
+    prefix: "/app"
+  3 warn pnpm: 
+    message: "Moving canvas that was installed by a different package manager to \"node_modules/.ignored"
+    prefix: "/app"
+  4 warn pnpm: 
+    message: "Moving chalk that was installed by a different package manager to \"node_modules/.ignored"
+    prefix: "/app"
+  5 warn pnpm: 
+    message: "Moving chance that was installed by a different package manager to \"node_modules/.ignored"
+    prefix: "/app"
+  6 warn pnpm: 
+    message: "Moving common-tags that was installed by a different package manager to \"node_modules/.ignored"
+    prefix: "/app"
+  7 warn pnpm: 
+    message: "Moving discord-backup that was installed by a different package manager to \"node_modules/.ignored"
+    prefix: "/app"
+  8 warn pnpm: 
+    message: "Moving discord-buttons that was installed by a different package manager to \"node_modules/.ignored"
+    prefix: "/app"
+  9 warn pnpm: 
+    message: "Moving discord.js that was installed by a different package manager to \"node_modules/.ignored"
+    prefix: "/app"
+  10 warn pnpm: 
+    message: "Moving distube that was installed by a different package manager to \"node_modules/.ignored"
+    prefix: "/app"
+  11 warn pnpm: 
+    message: "Moving express that was installed by a different package manager to \"node_modules/.ignored"
+    prefix: "/app"
+  12 warn pnpm: 
+    message: "Moving fs that was installed by a different package manager to \"node_modules/.ignored"
+    prefix: "/app"
+  13 warn pnpm: 
+    message: "Moving generate-password that was installed by a different package manager to \"node_modules/.ignored"
+    prefix: "/app"
+  14 warn pnpm: 
+    message: "Moving http that was installed by a different package manager to \"node_modules/.ignored"
+    prefix: "/app"
+  15 warn pnpm: 
+    message: "Moving jimp that was installed by a different package manager to \"node_modules/.ignored"
+    prefix: "/app"
+  16 warn pnpm: 
+    message: "Moving lowdb that was installed by a different package manager to \"node_modules/.ignored"
+    prefix: "/app"
+  17 warn pnpm: 
+    mess
